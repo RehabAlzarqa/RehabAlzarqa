@@ -8,7 +8,7 @@
 ### 👩‍💻 About me
 
 - 💻 Full Stack Developer
-- 🌱 Currently improving my skills in modern web technologies
+🌱 Currently improving my skills in modern web technologies at Sodexo and Ada Tech School.
 - 🚀 Interested in building real-world web applications
 - 📍 Based in France
 
